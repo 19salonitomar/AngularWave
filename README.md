@@ -36,20 +36,6 @@ Welcome to the **AngularWave** repository! This is a collection of various Angul
     - **User-Friendly Navigation:** Implemented an intuitive navigation system for effortless exploration of skills and projects.
 
   
-2. **LearnifyX**
-    #### Description
-    Engineered a dynamic online learning platform, **LearnifyX**, that empowers users to access a diverse range of courses tailored to their individual interests. The platform features an intuitive user interface     designed to enhance navigation and foster an engaging learning environment for students. Robust functionalities, including real-time progress tracking and interactive assessments, optimize the learning     
-    experience and boost retention.
-
-    #### Key Features
-    - **Diverse Course Selection:** Offers a wide variety of courses tailored to different interests and skill levels, catering to a broad audience.
-    - **Intuitive User Interface:** Designed for easy navigation, ensuring users can quickly find and enroll in courses that interest them.
-    - **Real-Time Progress Tracking:** Enables users to monitor their learning progress, motivating them to stay engaged and complete courses.
-    - **Interactive Assessments:** Incorporates quizzes and assignments that promote active learning and enhance knowledge retention.
-    - **Engaging Learning Environment:** Fosters an immersive experience through multimedia content, discussions, and collaborative features.
-    - **Personalized Learning Paths:** Suggests courses based on user preferences and progress, making the learning journey more tailored and effective.
-
-  
 ## Getting Started
 
 To get a local copy up and running follow these simple steps:
